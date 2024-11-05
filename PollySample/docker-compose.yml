@@ -1,0 +1,6 @@
+﻿services:
+  pollysample:
+    image: pollysample
+    build:
+      context: .
+      dockerfile: PollySample/Dockerfile

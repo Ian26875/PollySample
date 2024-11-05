@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PollySample", "PollySample\PollySample.csproj", "{525A33A2-079C-483B-B62A-AD45D4F76509}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CA3B7B39-FC23-4AEC-ACCF-99DB4D0B584F}"
+	ProjectSection(SolutionItems) = preProject
+		docker-compose.yml = docker-compose.yml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{525A33A2-079C-483B-B62A-AD45D4F76509}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{525A33A2-079C-483B-B62A-AD45D4F76509}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{525A33A2-079C-483B-B62A-AD45D4F76509}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{525A33A2-079C-483B-B62A-AD45D4F76509}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
